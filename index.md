@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6KTXKWMYF3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6KTXKWMYF3');
+</script>
 
 I am an **[Environmental Fellow](https://environment.harvard.edu/environmental-fellows-program)** at Harvard University funded by the Center for the Environment working within the **[Materials Intelligence Research](https://mir.g.harvard.edu/)** group since July 2022. In May 2022, I earned a Ph.D. in Materials Science and Engineering at U.C. Berkeley in the **[Ceder](https://ceder.berkeley.edu)** group. During the Ph.D., I was also an AI Resident with **[X](https://x.company/)** (formerly Google X) working on an early pipeline project. 
 
