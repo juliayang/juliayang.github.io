@@ -38,7 +38,7 @@ _in reverse chronological order_
 
 *: denotes equal contribution
 
-## Conferences and workshops
+## Workshops
 > 1. Gadhiya, T., Shah, F., Vyas, N., Gharakhanyan, G., **Yang, J. H.**, Holiday, A. "Directional Variational Transformers for continuous molecular embedding", ML4Molecules ELLIS workshop, (2022). [https://moleculediscovery.github.io/workshop2022/](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=directional_variational_transf.pdf)
 
 ## Patents
