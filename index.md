@@ -8,49 +8,18 @@
   gtag('config', 'G-6KTXKWMYF3');
 </script>
 
-I am an **[Environmental Fellow](https://environment.harvard.edu/environmental-fellows-program)** at Harvard University funded by the Center for the Environment working within the **[Materials Intelligence Research](https://mir.g.harvard.edu/)** group since July 2022. Previously, I was a Ph.D. student at University of California, Berkeley with the **[Ceder](https://ceder.berkeley.edu)** group and an AI Resident with **[X](https://x.company/)** (formerly Google X). 
+I am an **[Environmental Fellow](https://environment.harvard.edu/environmental-fellows-program)** at Harvard University Center for the Environment (HUCE) working with the **[Materials Intelligence Research](https://mir.g.harvard.edu/)** group since July 2022. Previously, I was a Ph.D. student at University of California, Berkeley with the **[Ceder](https://ceder.berkeley.edu)** group and an AI Resident with **[X](https://x.company/)** (formerly Google X). 
 
-I am a **computational materials scientist** focused on sustainability challenges in **energy storage**. My research advances and applies a diverse set of computational approaches to navigate chemical space to design urgently-needed, sustainable materials for **energy and the environment**.
+As a **materials scientist working closely with experiments** using computation and machine learning, my research elucidates thermodynamic and kinetic behavior of atoms or molecules to understand and design urgently-needed, sustainable materials for **energy storage and the environment**.
 
-## Education
->  * Ph.D, Materials Science and Engineering, University of California, Berkeley, **May 2022** 
->    * Advised by: Gerbrand Ceder
->    * Thesis: "Computational understanding of ionic systems for advanced energy storage materials"
->  * B.S., Materials Science and Engineering, additional major in Physics, Carnegie Mellon University, **May 2016**
+Please see [**here**](JHYang_CV__public_.pdf) for my CV.
 
-## Honors and Awards
-> * **Environmental Fellowship**, Harvard University Center for the Environment, 2022-2024. 
-> * **National Defense Science and Engineering Graduate Fellowship**, 2016-2019.
-> * **Rising Star Scholarship**, Department of Materials Science and Engineering, University of California, Berkeley, 2016.
-> * **Tau Beta Pi** Engineering Honors Society
-> * **College of Engineering Honors**, Carnegie Mellon University, 2016.
-> * **University Honors**, Carnegie Mellon University, 2016.
-> * **Senior Leadership Award**, Carnegie Mellon University, 2016.  
-> *  **Undergraduate Fellowship**, Semiconductor Research Corporation, 2014-2016.
-
-## Publications
-_in reverse chronological order_
-> 1. Jadidi, Z., **Yang, J.H.**, Chen, T., Barroso-Luque, L., and Ceder, G. "Ab-initio study of short-range ordering in vanadium-based disordered rocksalt structures," (submitted).
-> 2. **Yang, J. H.** and Ceder, G. "Activated internetwork pathways in partially-disordered spinel cathode materials with ultrahigh rate performance", Adv. Energy Mater. **13**, 2202955, (2023). [doi.org/10.1002/aenm.202202955](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202202955)
-> 3. Chen, T., **Yang, J. H.**, Barroso-Luque, L., Ceder, G. "Removing the two-phase transition in spinel LiMn<sub>2</sub>O<sub>4</sub>", ACS Energy Lett. **8**, 1, 314-319, (2022). [doi.org/10.1021/acsenergylett.2c02141](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c02141)
-> 4. Barroso-Luque, L., Zhong, P., **Yang, J. H.**, Xie, F., Chen, T., Ouyang, B., Ceder, G. "Cluster expansions of multicomponent ionic materials: Formalism and methodology", Phys. Rev. B **106**, 144202, (2022). [doi.org/10.1103/PhysRevB.106.144202](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.144202)
-> 5. Barroso-Luque, L., **Yang, J. H.**, Xie, F., Chen, T., Kam, R. L., Jadidi, Z., Zhong, P., Ceder, G. "smol: A python package for cluster expansions and beyond", Journal of Open Source Software **7**(77), 4504, (2022). [doi.org/10.21105/joss.04504](https://joss.theoj.org/papers/10.21105/joss.04504)
-> 6. **Yang, J. H.**, Chen, T., Barroso-Luque, L., Jadidi, Z., Ceder, G. "Approaches for handling high-dimensional cluster expansions of ionic systems", npj Comput Mater **8**, 133, (2022). [doi.org/10.1038/s41524-022-00818-3](https://www.nature.com/articles/s41524-022-00818-3)
-> 7. Barroso-Luque, L., **Yang, J. H.**, Ceder, G. "Sparse expansions of multicomponent oxide configuration energy using coherency and redundancy", Phys. Rev. B **104**, 224203, (2021). [doi.org/10.1103/PhysRevB.104.224203](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224203)
-> 8. **Yang, J. H.**, Kim, H., Ceder, G. "Insights into layered oxide cathodes for rechargeable batteries", Molecules **26**(11), 3173, (2021). [doi.org/10.3390/molecules26113173](https://www.mdpi.com/1420-3049/26/11/3173)
-> 9. Kim. J. C.\*, Kwon, D.-H.\*, **Yang, J. H.***, Kim. H., Bo, S.-H., Wu, L., Kim, H., Seo, D.-H., Shi, T., Wang, J., Zhu, Y.,Ceder, G. "Direct observation of alternating octahedral and prismatic sodium layers in O3-type transition metal oxides", Adv. Energy Mater. **10**, 2001151, (2020). [doi.org/10.1002/aenm.202001151](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202001151) 
-> 10. Kim, H., Kwon, D.-H., Kim, J. C., Ouyang, B., Kim, H., **Yang, J. H.**, Ceder, G. "Na+ redistribution by Na<sup>+</sup>/K<sup>+</sup> exchange in layered Na<sub>x</sub>Ni<sub>2</sub>SbO<sub>6</sub>", Chem. Mater. **32**, 10, 4312-4323, (2020). [doi.org/10.1021/acs.chemmater.0c01152](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.0c01152)
-> 11. **Yang, J. H.**, Kitchaev, D.K., Ceder, G. "Rationalizing accurate structure prediction in the meta-GGA SCAN functional", Phys. Rev. B **100**, 035132, (2019). [doi.org/10.1103/PhysRevB.100.035132](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.035132)
-> 12. Zhang, Y.\*, Kitchaev. D.K.\*, **Yang, J. H.**, Chen, T., Dacek. S. T., Sarmiento-Pérez, R. A., Marques, M. A. L., Peng, H., Ceder, G., Perdew, J. P., Sun, J. "Efficient first-principles prediction of solid stability: Towards chemical accuracy", npj Comput Mater, **4** 9, (2018). [doi.org/10.1038/s41524-018-0065-z](https://www.nature.com/articles/s41524%E2%80%90018%E2%80%900065%E2%80%90z)
-> 13. Brasz, C. F., **Yang, J. H.**, Arnold, C.B. "Tilting of adjacent laser-induced liquid jets", Microfluid Nanofluid **18**, 185-197 (2015). [doi.org/10.1007/s10404-014-1429-4](https://link.springer.com/article/10.1007/s10404-014-1429-4)
-
-*: denotes equal contribution | 5 first-author publications | 1 corresponding author publication
-
-## Workshops
-> 1. Gadhiya, T., Shah, F., Vyas, N., Gharakhanyan, G., **Yang, J. H.**, Holiday, A. "Directional Variational Transformers for continuous molecular embedding", ML4Molecules ELLIS workshop, (2022). [https://moleculediscovery.github.io/workshop2022/](https://cloud.ml.jku.at/s/JNJCSAGaABFR6wH/download?path=&files=directional_variational_transf.pdf)
-
-## Patents
-> 1. **Yang, J. H.**, Gharakhanyan, V., Gadhiya, T., Holiday, A. "Ionic liquid‑based depolymerization optimization." U.S. Patent App., filing date Oct 17, 2022.
-> 2. Gharakhanyan, V., **Yang, J. H.**, Gadhiya, T., Holiday, A. "Search for candidate molecules using quantum or thermodynamical simulations and autoencoder." U.S. Patent App., filing date Oct 17, 2022. 
-> 3. Holiday, A., Gadhiya, T., Gharakhanyan, V., **Yang, J. H.**, Vyas, N., Shah, F. "Depolymerization optimization platform". U.S. Patent App., filing date Oct 17, 2022.
-> 4. Gadhiya, T., Holiday, A., Shah, F., Vyas, N., **Yang, J. H.**, Gharakhanyan, V. "Molecular structure transformers for property prediction." U.S. Patent App., filing date Oct 17, 2022.
+## Commitment to Diversity, Equity, Inclusion, and Belonging (DEIB) 
+ 
+> We are committed to fostering environments that are professionally and personally inclusive, equitable, psychologically safe, and **welcoming to all teammates**. We do this by leading with **kindness, open-mindedness, and empathy**.  
+> 
+> 1. **Kindness**: We communicate openly and respectfully, remembering that it is okay for others to have different opinions from us. We treat others with the kindness that we want others to treat us. 
+> 2. **Open-mindedness**: We leave assumptions behind, and seek first to understand. We are aware of community biases, actively find new ways to reduce them, and encourage our peers to do the same. 
+> 3. **Empathy**:  We always remember that we are on the same team, working together on science and engineering challenges that need our solutions. We give ourselves and others the time, space, and patience to grow and learn.
+> 
+> These are our guiding principles as **ethical scientists and engineers**.  
