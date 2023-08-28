@@ -37,7 +37,7 @@ ___
 >> Using density functional theory (DFT) and random enumeration of large unit-cells (containing ~3000 atoms), we teamed up with an electrochemist and microscopy expert to model the probability of specific, atomic-level interactions of disordered, sodium-ion layered intercalation positive electrodes. Please see our work [here:](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202001151)
 ![](na-op2.jpg) 
 
->> However, random enumeration cannot capture experimentally-observed phenomena such as short-range order existing at the nano-domain level. We have also used DFT and lattice cluster expansion models to study a partially-disordered spinel positive electrode with ultrahigh power and energy density. Our cluster expansion model reveals that a newly-activated pathway for Li hops, through 48f-16d sites, explains the origin of high rate. Please see our work [here:](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202202955)    
+>> However, random enumeration cannot capture experimentally-observed phenomena such as short-range order existing at the nano-domain level. We have also used DFT and lattice cluster expansion models to study the short-range order in a partially-disordered spinel positive electrode with ultrahigh power and energy density. Our cluster expansion model reveals that a novel internetwork pathway for Li traveling through newly-activated 48f-16d sites explains the origin of high rate. Please see our work [here:](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202202955)    
 ![](pds.jpg)
 
 ### II. Computational methods: understanding and application
@@ -47,14 +47,14 @@ ___
 ### Previous work:
 >> Given the efficacy of meta-GGA functionals in ground state crystal structure prediction, as observed in our work [here](https://www.nature.com/articles/s41524%E2%80%90018%E2%80%900065%E2%80%90z), we used data-driven methods to find systematic under-coordination in the well-known PBE functional, not observed in SCAN. We trace the origin of this difference to their exchange enhancement factors [here](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.035132).
 ![](scan.jpg)
->
+
 >> Lattice models can be used to disordered systems, but they have rarely been extended to study systems with more than 2 or 3 species. In studying the partially-disordered spinel system, [we constructed one of the most complex lattice models to our knowledge](https://www.nature.com/articles/s41524-022-00818-3), and suggested that model error with CE models should scale with species complexity. We also explained our approaches in a "Behind the Paper" commentary [here](https://materialscommunity.springernature.com/posts/structured-sparsity-for-building-predictive-models-in-chemically-complex-systems).
 > ![](npj-pds.jpg)
 
 >> We are also the first to study the DFT corrections needed to model organic solvents. (Preprint coming soon.)
 
 ### III. Battery recycling with solvents
-> Molecular understanding of metal-solvent interactions are essential to develop new metals recycling methods. We are interested in exploiting the tunability of "designer solvents", such as molten salts, ionic liquids, or deep eutectic solvents, to enable selective metals extraction. 
+> Molecular understanding of metal-solvent interactions are essential to develop new metals recycling methods. We are interested in exploiting the tunability of "designer solvents", such as molten salts, ionic liquids, or deep eutectic solvents, to enable selective metal extraction. 
 
 ### Previous work:
 >> We have developed a computational workflow, using cheminformatics and Bayesian methods, to navigate reaction conditions for optimizing chemical recycling of waste plastics. Several patents regarding this process have been filed by X Development LLC. See our primary contribution [here](https://patents.google.com/patent/US20230170056A1/en): 
