@@ -1,9 +1,8 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
 title: Julia H. Yang
 logo: headshot-ucb.png
 description: Materials scientist working closely with experiments to address 
              urgently-needed solutions for energy storage and the environment. 
-             jhyang [at] g [dot] harvard [dot] edu
+             Postdoc at Harvard University, Ph.D. from U.C. Berkeley.
+
 
