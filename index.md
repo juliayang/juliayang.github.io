@@ -57,6 +57,6 @@ ___
 > Molecular understanding of metal-solvent interactions are essential to develop new metals recycling methods. We are interested in exploiting the tunability of "designer solvents", such as molten salts, ionic liquids, or deep eutectic solvents, to enable selective metal extraction. 
 
 ### Previous work:
->> We have developed a computational workflow, using cheminformatics and Bayesian methods, to navigate reaction conditions for optimizing chemical recycling of waste plastics. Several patents regarding this process have been filed by X Development LLC. [See our primary contribution:](https://patents.google.com/patent/US20230170056A1/en): 
+>> We have developed a computational workflow, using cheminformatics and Bayesian methods, to navigate reaction conditions for optimizing chemical recycling of waste plastics. Several patents regarding this process have been filed by X Development LLC. [See our primary contribution:](https://patents.google.com/patent/US20230170056A1/en)
 
 >> We also use large-scale atomistic simulations powered by state-of-the-art machine learning methods to understand molecular structure of neat solvent. (Preprint coming soon.)
