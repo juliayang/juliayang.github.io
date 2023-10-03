@@ -77,8 +77,8 @@ T. Shi, J. Wang, Y. Zhu, and G. Ceder, “Direct Observation of Alternating Octa
 ### Previous work:
 >> We have developed a computational workflow, using cheminformatics and Bayesian methods, to navigate reaction conditions for optimizing chemical recycling of waste plastics. Several patents regarding this process have been filed by X Development LLC. [See our primary contribution.](https://patents.google.com/patent/US20230170056A1/en)
 > 
-> [J. H. Yang, V. Gharakhanyan, T. Gadhiya, and A. Holiday, “Ionic liquid-based
-depolymerization optimization”, U.S. Patent App. 17/967,711, filed Oct. 17, 2022.](https://patents.google.com/patent/US20230170056A1/en)
+> **J. H. Yang**, V. Gharakhanyan, T. Gadhiya, and A. Holiday, “Ionic liquid-based
+depolymerization optimization”, [U.S. Patent App. 17/967,711, filed Oct. 17, 2022.](https://patents.google.com/patent/US20230170056A1/en)
 
 >> We also use large-scale atomistic simulations powered by state-of-the-art machine learning methods to understand molecular reactions in neat solvent. (Preprint coming soon.)
 > 
