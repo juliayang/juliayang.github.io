@@ -34,7 +34,7 @@ ___
 >We are interested in the thermodynamics of battery electrode materials. We use computation to investigate intragranular and intergranular atomic-level features that limit electrochemical performance, such as rate capability and structural stability. 
 
 ### Previous work:  
->> Using density functional theory (DFT) and random enumeration of large unit-cells (containing ~3000 atoms), we [teamed up with an electrochemist and microscopy expert](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202001151) to investigate the effect of Jahn-Teller-active iron in stabilizing a high-voltage, sodium-ion intercalation electrode. We suggest a lower bound for iron concentration to accommodate phase stability at high state of charge. 
+>> Using density functional theory (DFT) and random enumeration of large unit-cells (containing ~3000 atoms), we [teamed up with an electrochemist and a microscopist](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202001151) to investigate the effect of Jahn-Teller-active iron in stabilizing a high-voltage, sodium-ion intercalation electrode. We suggest a lower bound for iron concentration to accommodate phase stability at high state of charge. 
 > 
 ![](na-op2.jpg)
 > 
