@@ -12,7 +12,7 @@ I am an **[Environmental Fellow](https://environment.harvard.edu/environmental-f
 
 As a **materials scientist working closely with experiments** using computation and machine learning, my research elucidates thermodynamic and kinetic behavior of atoms or molecules to understand and design urgently-needed, sustainable materials for **energy storage and the environment**.
 
-Please see [Google Scholar](https://scholar.google.com/citations?user=GUYnP_cAAAAJ&hl=en) for a full list of publications and my CV [here](CV-JHY-public.pdf). 
+Please see [Google Scholar](https://scholar.google.com/citations?user=GUYnP_cAAAAJ&hl=en) for a full list of publications, my CV [here](CV-JHY-public.pdf), or my [faculty candidate poster](JHY-faculty-candidate-poster.pdf). 
 
 ___
 
